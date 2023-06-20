@@ -10,6 +10,7 @@ tasks:
 #         service: cli
 
   post-rollout:
+    # demo deploy!
     # Enable once config sync has been setup.
     # - run:
     #     name: drush cim
